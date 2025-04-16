@@ -6,13 +6,13 @@ Welcome, patriot. Are your scripts executing *too quickly*?
 Are they not paying their fair share?
 Is your terminal experience suspiciously **efficient**?
 
-Do you yearn for the good ol' days when commands *took their sweet time* or even a time when technology or automation took all those low paying jobs?
+Do you yearn for the good ol' days when commands *took their sweet time* or even a time when technology or automation took all those low-paying jobs?
 
 Then **Invoke-PwshTariff** is the module for you.
 
 ## 🧾 What is it?
 
-`Invoke-PwshTariff` is a PowerShell module that introduces a **tariff** — yes, a good old-fashioned *freedom fee* — on your commands. Based on how long your script takes to run, it tacks on an artificial delay because, let’s face it, progress is suspicious. A no one script should be better then the script you write, right?!
+`Invoke-PwshTariff` is a PowerShell module that introduces a **tariff** — yes, a good old-fashioned *freedom fee* — on your commands. Based on how long your script takes to run, it tacks on an artificial delay because, let’s face it, progress is suspicious. No one script should be better than the script you write, right?!
 
 > **"If it runs in milliseconds, how do you know it’s not woke?"** – A concerned sysadmin
 
